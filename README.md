@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a first year master student in the engineering school Polytech Clermont, department of mathematical engineering and data science.
+I'm a first year master student at engineering school Polytech Clermont, department of mathematical engineering and data science.
 <!--
 **ycharpentier/ycharpentier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
