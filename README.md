@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 I'm a first year master student at engineering school Polytech Clermont, department of mathematical engineering and data science.
+
+"Pineaple pen, which is a pen that is designed to be used with a pen that is not a pen." - GPT 2
 <!--
 **ycharpentier/ycharpentier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
